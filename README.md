@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://github.com/Bostigger/technical-test/assets/52701136/ed4906e1-79eb-42c6-b8f4-e49d364cbe89
+https://github.com/yawMD/technical-assessment/assets/82598461/0a38e204-373f-48bd-b4d9-0be519394a69
 
 
 Overview
