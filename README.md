@@ -29,7 +29,7 @@ Follow these steps to set up the project:
 
 bash
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yawMD/technical-assessment.git
 
     Navigate to the project directory
 
