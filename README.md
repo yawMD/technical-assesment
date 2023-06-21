@@ -77,14 +77,8 @@ Built With
     Express.js
     Include any other technologies or libraries used here.
 
-Contributing
 
-We welcome contributions, issues, and feature requests. Please feel free to check the issues page for any existing requests or issues before contributing.
-License
+yawMD - emmamcdans@gmail.com
 
-This project is licensed under the MIT License. See the LICENSE.md file for details.
-Contact
+Project Link: https://github.com/yawMD/technical-assessment.git
 
-Your Name - Email
-
-Project Link: https://github.com/yourusername/your-repo-name
