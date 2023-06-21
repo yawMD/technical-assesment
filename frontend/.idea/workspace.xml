@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01a327bf-d635-49cd-b2b2-b55bddfdbce4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/check-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/pending-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/task.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Forms/EditTaskForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Forms/NewTaskForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Forms/NewTaskForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/completed_tasks/CompletedTask.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/completed_tasks/CompletedTaskPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/tasks/EditTaskPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/tasks/NewTaskPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/tasks/Task.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/uncompleted_tasks/UncompletedTask.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/uncompleted_tasks/UncompletedTaskPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/onlycc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/onlycc/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/ApiRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/ApiRoute.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Config/Configure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/UploadStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/all_card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/angle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/applogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/card_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/cards.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/credit_card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/debit_card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/login.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/premium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/purchase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/settings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/shopping_card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/user.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/user.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/visa_card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/cartItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/FooterStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/FooterStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/HeroStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/LoginStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/NavbarStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/CardTile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/ProductCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/Shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/ShopStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/cartDetails/cardDetails.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/cartDetails/cardDetailsPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/debitCards/DebitCards.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/debitCards/DebitCardsPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/premiumCards/PremiumCards.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/premiumCards/PremiumCardsPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/shoppingCards/ShoppingCards.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/shoppingCards/ShoppingCardsPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/standardCards/StandardCards.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shop/standardCards/StandardCardsPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignUp/SignUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignUp/SignUpStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/ContactPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/privacy/Privacy.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/privacy/PrivacyPolicyPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/privacy/PrivacyStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profilePage/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profilePage/ProfilePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task/tasks/TaskPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profilePage/ProfileStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task/shared/TaskStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RQsna6MG18PM2Npr8frsSmYdz3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/silan/WebstormProjects/New folder/onlycc-repo/src/components/Task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Task" />
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Forms" />
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Task\shared" />
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Task\tasks" />
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Task\uncompleted_tasks" />
+      <recent name="C:\Users\silan\WebstormProjects\New folder\onlycc-repo\src\components\Task\completed_tasks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a327bf-d635-49cd-b2b2-b55bddfdbce4" name="Changes" comment="" />
+      <created>1687193806885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687193806885</updated>
+      <workItem from="1687193809396" duration="28964000" />
+      <workItem from="1687286609384" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

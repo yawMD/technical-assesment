@@ -1,0 +1,32 @@
+
+.footer{
+
+    padding: 3rem 2rem;
+        background-color: #111;
+        z-index: 19;
+        position: relative;
+
+    }
+    .footer .container{
+        display: flex;
+      flex-direction: column;
+      justify-content: center;
+     
+      color: white;
+    }
+
+
+    .footer .content{
+    display: flex;
+     align-items: center;
+    padding: 0px 2rem;
+    }
+    
+    @media screen and (max-width:940px) {
+        .footer .content{
+            flex-direction: column;
+        }
+        .footer .sec_one{
+            margin-bottom: 15px;
+        }
+    }

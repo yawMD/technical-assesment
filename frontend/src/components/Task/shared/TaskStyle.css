@@ -1,0 +1,363 @@
+
+.my__task{
+
+   background-color: #f1f1f1;
+   padding: 3rem 2rem;
+}
+.my__task .content{
+    width: 100%;
+ 
+   display: flex;
+
+}
+.my__task .my__task-information{
+    width: 25%;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.my__task .tile{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+
+}
+.my__task .my__task-information .tile p{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    color: var(--primary-color);
+}
+.my__task h1{
+    font-family: Gilroy_Bold;
+    font-weight: normal;
+    padding-bottom: 1.5rem;
+    
+}
+.my__task .my__task-information h4{
+    font-size: 15px;
+    padding-bottom: 10px;
+    font-weight: normal;
+    color: #888;
+}
+.my__task .my__task-information p{
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: #444;
+    font-weight: 800;
+
+}
+.my__task .icon_box{
+    display: flex;
+    align-items: center;
+    color: #888;
+    margin-bottom: 10px;
+    
+}
+.my__task .icon_box .icon{
+    width: 20px;
+    margin-right: 15px;
+
+}
+.my__task .history{
+   padding: 0rem 2rem;
+   width: 75%;
+
+
+}
+.my__task .hidden{
+    display: none;
+}
+.purchase_history{
+    padding: 0rem 1.5rem;
+    width: 75%;
+}
+.purchase_history .container{
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    
+}
+.purchase_history .container .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.purchase_history .container .top h3{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.purchase_history .container .top p{
+    font-size: 25px;
+    color: var(--primary-color);
+}
+.back_icon{
+    transform: rotate(180deg);
+  size: 50px;
+}
+.purchase_history .history_card{
+    display: grid;
+    grid-template-columns:2fr 7fr 1fr ;
+    column-gap: 10px;
+    padding: 15px;
+   
+}
+.purchase_history .head{
+    font-weight: 900;
+    background-color: #f3f3f3;
+  
+}
+.purchase_history .tile{
+border-bottom: 1px solid #efefef;
+color: #666;
+}
+.history_card_container{
+    padding-top: 1.5rem;
+}
+.my__task .history .card_box:first-child{
+    display: flex;
+    background-image: linear-gradient(-145deg, #8bcfff,#27A4FF  );
+
+  border-radius: 10px;
+    justify-content: space-between;
+  
+
+    color: white;
+    margin-right: 1.5rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}.my__task  .tab_container{
+    display: flex;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: white;
+    display: none;
+}
+.my__task .tab_container  .inactive{
+
+    color: #bbb;
+}
+.my__task .tab_container  .active{
+    color: var(--primary-color);
+}
+.my__task  .tab_container .tab{
+    width: 50%;
+    display: flex;
+    align-items: center;
+   cursor: pointer;
+  
+  
+ 
+    padding: 1rem 2rem;
+}
+.my__task  .tab_container .tab .icon{
+    height: 25px;
+    margin-right: 1rem;
+}
+a{
+    text-decoration: none;
+}
+.my__task .card_box{
+    display: flex;
+    background-image: linear-gradient(-145deg, rgb(68, 68, 68),#222  );
+
+  border-radius: 10px;
+    justify-content: space-between;
+    padding: 1.5rem;
+    width: 50%;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.my__task .history .card_box .icon .micon{
+   height: 80px;
+   width: 80px;
+
+}
+.my__task .history .card_box h2{
+    font-size: 60px;
+}
+
+.my__task .history .card_box p{
+font-size: 13px;
+font-weight: 900;
+}
+.my__task .history .notif h1{
+    padding: 2rem ;
+}
+.my__task .history .notif{
+    background-color: white;
+    width: 100%;
+   
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+
+}
+.task_list{
+  max-height:100%;
+   overflow-y: auto;
+
+}
+
+.my__task .history .notif .task_list{
+    padding: 10px 2rem;
+}
+.my__task .task_card{
+    display: flex;
+ border-left: 3px solid var(--primary-color);
+ padding: 5px 1rem;
+ align-items: center;
+ justify-content: space-between;
+ margin: 1.5rem 0px;
+
+
+}
+.my__task .task_card .detail{
+    display: flex;
+    width: 70%;
+    align-items: center;
+    
+
+}
+.my__task .task_card .detail .icon{
+    height: 25px;
+    margin-right: 1rem;
+}
+.my__task .task_card .detail p{
+    color: #888;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.my__task .task_card .time{
+    color: #888;
+    padding-right: 1rem;
+}
+@media screen and (max-width:1100px) {
+    .my__task .my__task-information p{
+       font-size: 20px;
+    }
+}
+
+@media screen and (max-width:940px) {
+    .my__task .active{
+  display: none;
+    }
+    .my__task .my__task-information h4{
+        margin: 0px;
+    }
+    .my__task .history{
+        
+        width: 100%;
+       
+     
+     }
+     .purchase_history{
+      padding: 0px;
+        width:100%;
+    }
+     .my__task .my__task-information{
+     width: auto;
+      
+    }
+    .my__task .content{
+  
+        flex-direction: column;
+     
+     }
+     .my__task .tab_container{
+         display: flex;
+
+     }
+     .my__task .history .card_category{
+        display: grid;
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+     }
+     .my__task .history{
+         width: 100%;
+        margin: 0px;
+        padding: 0px;
+        
+     }
+}
+.my__task .history .card_category{
+    width: 100%;
+    display: flex;
+
+ 
+  margin: 0px;
+   }
+ 
+@media screen and (max-width:700px) {
+  
+    .my__task .history .card_category{
+       display: grid;
+       width: 100%;
+       margin: 0px;
+       padding: 0px;
+    }
+    .my__task .history{
+        width: 100%;
+       margin: 0px;
+       padding: 0px;
+       
+    }
+ 
+    .my__task .history .card_box{
+    width: 90%;
+    margin-bottom: 30px;
+    
+
+  
+    }
+
+ 
+}
+.darkbtn{
+    padding: 15px 2rem;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    margin: 1rem 0px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: Gilroy_Bold;
+}
+.darkbtn:hover {
+    color: black;
+    background-color: white;
+}
+
+
+
+
+/* For screens smaller than 600px */
+@media screen and (max-width: 600px) {
+    .task_list {
+        max-height: 200px; /* Change max-height for small screens */
+    }
+}
+
+/* For screens larger than 600px and smaller than 900px */
+@media screen and (min-width: 601px) and (max-width: 900px) {
+    .task_list {
+        max-height: 250px;
+    }
+}
+
+/* For screens larger than 900px */
+@media screen and (min-width: 901px) {
+    .task_list {
+        max-height: 300px;
+    }
+}

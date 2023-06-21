@@ -1,0 +1,49 @@
+
+:root{
+  --primary-color: #27A4FF;
+
+}
+@font-face {
+  font-family: Gilroy_Bold;
+  src: url(./assets/fonts/Gilroy-ExtraBold.ttf);
+}
+@font-face {
+  font-family: Gilroy;
+  src: url(./assets/fonts/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: Gilroy_Light;
+  src: url(./assets/fonts/Gilroy-Light.ttf);
+}
+*{
+  margin:0px;
+  padding: 0px;
+
+}
+body {
+
+  margin: 0;
+  font-family: Gilroy_Light, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container{
+
+  max-width: 1400px;
+  margin: auto;
+  
+
+}
+
+
+
+code {
+  font-family: Gilroy_Bold, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+
+
